@@ -35,7 +35,6 @@ ORDER: Base + typography > general layout + grid > page layout > components
 1em = 16px
 */
 .sponsors {
-  width: 100vw;
   background-color: black; }
   .sponsors__head {
     text-align: center;
